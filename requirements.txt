@@ -1,2 +1,2 @@
-mobilechelonian     0.4
-session_info        1.0.0
+mobilechelonian == 0.4
+session_info == 1.0.0
